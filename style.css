@@ -6,10 +6,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-body  {
-    background-image: url("paper.gif");
-    background-color: #cccccc;
-  }
+
 
 body{
   font-family: "Nunito",sans-serif;
